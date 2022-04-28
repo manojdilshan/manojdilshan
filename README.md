@@ -1,6 +1,6 @@
 - 👋 Hi, Manoj Dilshan
-- 👀 I’m interested in Artificial Intelligence and machine learning.
-- 🌱 I’m currently learning Python, Java, Javascript and R
+- 👀 I’m interested in Artificial Intelligence and deep learning.
+- 🌱 I’m currently learning Python, C++ and Javascript.
 
 <!---
 manojdilshan/manojdilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
