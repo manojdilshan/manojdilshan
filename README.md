@@ -1,4 +1,4 @@
-- 👋 Hi, Manoj Dilshan
+- 👋 Hi, I'm Manoj Dilshan
 - 👀 I’m interested in Artificial Intelligence and deep learning.
 - 🌱 I’m currently learning Python, C++ and Javascript.
 
